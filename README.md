@@ -10,3 +10,6 @@ I am learning full-stack web development.
 
 ## My next goal
 Learn HTML, CSS, and JavaScript.
+
+## Day 2 Learning Git
+Learn Git and Github
